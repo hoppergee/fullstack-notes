@@ -1,2 +1,2 @@
 # Devise自定义
-1. config %%%
+1. config@
